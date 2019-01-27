@@ -1,0 +1,30 @@
+{
+  "name": "nodeexpressstructure",
+  "version": "1.0.0",
+  "description": "Node Express Framework MVC Structure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjkerure/NodeExpressStructure.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "structure",
+    "nodeexpress"
+  ],
+  "author": "VIJAY KERURE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjkerure/NodeExpressStructure/issues"
+  },
+  "homepage": "https://github.com/vjkerure/NodeExpressStructure#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
