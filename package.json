@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vjkerure/NodeExpressStructure.git"
+    "url": "git+https://github.com/vijaykerure/NodeExpressStructure.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "VIJAY KERURE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vjkerure/NodeExpressStructure/issues"
+    "url": "https://github.com/vijaykerure/NodeExpressStructure/issues"
   },
-  "homepage": "https://github.com/vjkerure/NodeExpressStructure#readme",
+  "homepage": "https://github.com/vijaykerure/NodeExpressStructure#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
